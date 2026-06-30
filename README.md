@@ -1,38 +1,61 @@
 # Hi, I'm Piyush 👋
 
-I'm a Computer Science student with a primary interest in backend engineering, distributed systems, and open-source software.
+> Backend • Open Source • Linux
 
-My day-to-day work revolves around building reliable systems, learning how software works under the hood, and contributing to the open-source ecosystem.
+Computer Science student.
 
-### What I work with
+Interested in backend engineering, distributed systems, and open source.
 
-* Go
-* C++
-* C
-* Python
-* Bash
-* Linux
+I enjoy building reliable software and understanding how systems work.
 
-### Interests
+## Tech
 
-* Backend development
-* Distributed systems
-* Cloud computing
-* Free and Open Source Software (FOSS)
-* Self-hosting & homelabs
+```text
+Languages      Go • C++ • C • Python • Bash
+Containers     Docker • Podman
+Virtualization KVM • QEMU
+Editors        Zed • Vim
+OS             Debian Linux
+```
 
-### Where you'll find my work
+## Databases
 
-I primarily develop and maintain my projects on **Codeberg**.
+```text
+SQLite • PostgreSQL • Redis
+```
 
-**Codeberg:** https://codeberg.org/vaznerd
+## Interests
 
-This GitHub profile is mainly used for:
+- Backend Engineering
+- Distributed Systems
+- Cloud Computing
+- Free & Open Source Software (FOSS)
+- Self-hosting & Homelabs
 
-* Contributing to projects hosted on GitHub.
-* Mirroring selected repositories from Codeberg.
-* Projects that specifically require GitHub.
+## Where I work
 
-### Contact
+Most of my personal projects live on **Codeberg**.
 
-* Email: [piyush.vaznerd@gmail.com](mailto:piyush.vaznerd@gmail.com)
+**Codeberg →** https://codeberg.org/vaznerd
+
+This GitHub account is primarily used for:
+- contributing to open-source projects hosted on GitHub;
+- mirroring selected repositories from Codeberg; and
+- projects that specifically require GitHub.
+
+## Currently Learning
+
+- Distributed Systems
+- Designing Data-Intensive Applications
+- Computer Networking
+- Kubernetes
+
+## Philosophy
+
+> Prefer simple, reliable systems over unnecessary complexity.
+>
+> Build things. Understand them deeply.
+
+## Contact
+
+📧 **Email:** piyush.vaznerd@gmail.com
