@@ -1,6 +1,6 @@
 # Hi, I'm Piyush 👋
 
-> Backend • Open Source • Linux
+> Backend • Cloud • Open Source
 
 Computer Science student focused on backend engineering, distributed systems, and open source.
 
