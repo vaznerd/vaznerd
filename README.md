@@ -2,13 +2,11 @@
 
 > Backend • Open Source • Linux
 
-Computer Science student.
+Computer Science student focused on backend engineering, distributed systems, and open source.
 
-Interested in backend engineering, distributed systems, and open source.
+I like building reliable software and understanding systems from the ground up.
 
-I enjoy building reliable software and understanding how systems work.
-
-## Tech
+## Tech Stack
 
 ```text
 Languages      Go • C++ • C • Python • Bash
@@ -16,46 +14,41 @@ Containers     Docker • Podman
 Virtualization KVM • QEMU
 Editors        Zed • Vim
 OS             Debian Linux
-```
-
-## Databases
-
-```text
-SQLite • PostgreSQL • Redis
+Databases      SQLite • PostgreSQL • Redis
 ```
 
 ## Interests
 
-- Backend Engineering
-- Distributed Systems
-- Cloud Computing
-- Free & Open Source Software (FOSS)
-- Self-hosting & Homelabs
+* Backend engineering
+* Distributed systems
+* Cloud computing
+* Free and open-source software (FOSS)
+* Self-hosting and homelabs
 
-## Where I work
+## Projects
 
 Most of my personal projects live on **Codeberg**.
 
-**Codeberg →** https://codeberg.org/vaznerd
+**Codeberg:** https://codeberg.org/vaznerd
 
-This GitHub account is primarily used for:
-- contributing to open-source projects hosted on GitHub;
-- mirroring selected repositories from Codeberg; and
-- projects that specifically require GitHub.
+This GitHub account is mainly used for:
+
+* contributing to open-source projects hosted on GitHub
+* mirroring selected repositories from Codeberg
+* projects that specifically require GitHub
 
 ## Currently Learning
 
-- Distributed Systems
-- Designing Data-Intensive Applications
-- Computer Networking
-- Kubernetes
+* Distributed systems
+* Designing Data-Intensive Applications
+* Computer networking
+* Kubernetes
 
 ## Philosophy
 
 > Prefer simple, reliable systems over unnecessary complexity.
->
 > Build things. Understand them deeply.
 
 ## Contact
 
-📧 **Email:** piyush.vaznerd@gmail.com
+**Email:** [piyush.vaznerd@gmail.com](mailto:piyush.vaznerd@gmail.com)
