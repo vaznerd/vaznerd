@@ -47,6 +47,7 @@ This GitHub account is mainly used for:
 ## Philosophy
 
 > Prefer simple, reliable systems over unnecessary complexity.
+> 
 > Build things. Understand them deeply.
 
 ## Contact
