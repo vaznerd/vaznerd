@@ -27,15 +27,15 @@ Databases      SQLite • PostgreSQL • Redis
 
 ## Projects
 
-Most of my personal projects live on **Codeberg**.
+Most of my personal projects are developed and maintained on **Codeberg**.
 
-**Codeberg:** https://codeberg.org/vaznerd
+This GitHub account is primarily used to:
 
-This GitHub account is mainly used for:
+* host mirrors of selected personal projects from Codeberg
+* contribute to open-source projects hosted on GitHub
+* host projects that specifically require GitHub
 
-* contributing to open-source projects hosted on GitHub
-* mirroring selected repositories from Codeberg
-* projects that specifically require GitHub
+**Main development:** https://codeberg.org/vaznerd
 
 ## Currently Learning
 
